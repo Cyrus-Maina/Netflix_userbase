@@ -63,13 +63,13 @@ After performing statistical operations on the dataset, we deduct several valuab
 
 1.Netflix can maximise on making laptops more seamless for streaming
 
-2.Ivestigations should be done to explain the revenues downward fall
+2.Investigations should be done to explain the sharp revenues downfall
 
 3.More relevant content for age groups 31-40 and 41-50 should be produced
 
-4.Netflix should research ad ramp up production of content relevant to age group 19-30
+4.Netflix should research and ramp up production of content relevant to age group 19-30 to increase and attract the numbers
 
-5.Spain culture shows should be maximised as Spain has performed so well.
+5.Spain culture shows should be maximised on as Spain has performed so well.
 
 6.There should be attractive incentives to attract users from basic to premium and standard
 
@@ -77,6 +77,6 @@ After performing statistical operations on the dataset, we deduct several valuab
 
 8. Netflix should maximise on the high count of female subscription in Spain.
 
-9. Netflix can strategize on producing shows that can efforlessly be watched on the go since the most used devices are mobile.
+9. Netflix can strategize on producing shows that can efforlessly be watched on the go since the most used devices are mobile (easily carried).
 
 10. More premium advertising should be carried in Spain to attract more users
