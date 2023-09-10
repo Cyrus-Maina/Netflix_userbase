@@ -5,15 +5,25 @@ This analysis provides insights deducted from a fictitious Netflix userbase data
 
 The dataset has 2500 records and 10 fields.
 The fields are inclusive of:
+
   1.Subscription Type- Subscription packages such as Basic,Premium and Standard
+  
   2.Monthly Revenue	- how much each package costs per month
+  
   3.Join Date- day customer joined Netflix subscriptions
-  4.Last Payment Date- day customer made last payment for a package\
+  
+  4.Last Payment Date- day customer made last payment for a package
+  
   5.Country- country of user
+  
   6.Age- real time age of user
+  
   7.Age Group- interval of ages that user falls on
+  
   8.Gender
+  
   9.Device-device user uses to watch shows
+  
   10.Plan Duration-period paid for by user
 
 Several libraries have been used to visualize and perform statistical operations on the dataset.They include:
