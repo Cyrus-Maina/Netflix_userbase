@@ -75,6 +75,8 @@ After performing statistical operations on the dataset, we deduct several valuab
 
 7.There should be research on why there are almost zero premium and standard subscriptions in Italy
 
-8.Netflix should maximise on the high count of female subscription in Spain.
+8. Netflix should maximise on the high count of female subscription in Spain.
 
-9.Netflix can strategize on producing shows that can efforlessly be watched on the go since the most used devices are mobile.
+9. Netflix can strategize on producing shows that can efforlessly be watched on the go since the most used devices are mobile.
+
+10. More premium advertising should be carried in Spain to attract more users
