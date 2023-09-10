@@ -30,6 +30,7 @@ Several libraries have been used to visualize and perform statistical operations
   Pandas, numpy, matplotlib.pyplot and seaborn
 
 **INSIGHTS**
+
 After performing statistical operations on the dataset, we deduct several valuable insights:
 
 1. Most of the users fall under age group 31-40 years (1,007) followed by 41-50 years (977)
